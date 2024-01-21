@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace _04_APIweb.Controllers;
+namespace ContosoPizza.Controllers;
 
 [ApiController]
 [Route("[controller]")]

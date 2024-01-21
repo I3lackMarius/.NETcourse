@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C/8F0ZjWwe6IWdlz+lsBWVF2MRECyBVbgZyNumhUXKEfdGzVNF/+niH1gvTwg/v9NXgThNG+FfcdT3rRr0yPEw==",
+  "dgSpecHash": "OD/SHzmqHl9jIp25azFYHV8uTLKKGVzjx1kVlN+AJZT5U1f+maGRt4+KqqfZZjFActfbLb7jieJ0TKcxKQrRkA==",
   "success": true,
-  "projectFilePath": "D:\\Data\\Learn\\01_Courses\\09_.NET\\.NETcourse\\04_APIweb\\04_APIweb.csproj",
+  "projectFilePath": "D:\\Data\\Learn\\01_Courses\\09_.NET\\.NETcourse\\04_WebAPIpractice\\ContosoPizza\\ContosoPizza.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\l3lackMarius\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\l3lackMarius\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

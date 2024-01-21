@@ -1,4 +1,4 @@
-namespace _04_APIweb;
+namespace ContosoPizza;
 
 public class WeatherForecast
 {

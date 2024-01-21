@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\Learn\\01_Courses\\09_.NET\\.NETcourse\\04_APIweb\\04_APIweb.csproj",
-      "projectName": "04_APIweb",
-      "projectPath": "D:\\Data\\Learn\\01_Courses\\09_.NET\\.NETcourse\\04_APIweb\\04_APIweb.csproj",
+      "projectUniqueName": "D:\\Data\\Learn\\01_Courses\\09_.NET\\.NETcourse\\04_WebAPIpractice\\ContosoPizza\\ContosoPizza.csproj",
+      "projectName": "ContosoPizza",
+      "projectPath": "D:\\Data\\Learn\\01_Courses\\09_.NET\\.NETcourse\\04_WebAPIpractice\\ContosoPizza\\ContosoPizza.csproj",
       "packagesPath": "C:\\Users\\l3lackMarius\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\Learn\\01_Courses\\09_.NET\\.NETcourse\\04_APIweb\\obj\\",
+      "outputPath": "D:\\Data\\Learn\\01_Courses\\09_.NET\\.NETcourse\\04_WebAPIpractice\\ContosoPizza\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\l3lackMarius\\AppData\\Roaming\\NuGet\\NuGet.Config"
