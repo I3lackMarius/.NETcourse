@@ -1,3 +1,5 @@
+Applicazione Web che fornisce dati di esempio relativi alle previsioni meteo, quindi si è visto come interagire con questa applicazione in HTTP REPL.
+
 Nome -- Descrizione
 Controllers/ -- Contiene le classi con i metodi pubblici esposti come endpoint HTTP.
 Program.cs -- Configura i servizi e la pipeline di richieste HTTP dell'app e contiene il punto di ingresso gestito dell'app.
