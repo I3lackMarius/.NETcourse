@@ -63,3 +63,12 @@ d:\Data\Learn\01_Courses\09_.NET\02_Practice\bin\Debug\net8.0\is\Humanizer.resou
 d:\Data\Learn\01_Courses\09_.NET\02_Practice\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
 d:\Data\Learn\01_Courses\09_.NET\02_Practice\bin\Debug\net8.0\ku\Humanizer.resources.dll
 d:\Data\Learn\01_Courses\09_.NET\02_Practice\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+d:\Data\Learn\01_Courses\09_.NET\.NETcourse\02_Practice\obj\Debug\net8.0\02_Practice.csproj.AssemblyReference.cache
+d:\Data\Learn\01_Courses\09_.NET\.NETcourse\02_Practice\obj\Debug\net8.0\02_Practice.GeneratedMSBuildEditorConfig.editorconfig
+d:\Data\Learn\01_Courses\09_.NET\.NETcourse\02_Practice\obj\Debug\net8.0\02_Practice.AssemblyInfoInputs.cache
+d:\Data\Learn\01_Courses\09_.NET\.NETcourse\02_Practice\obj\Debug\net8.0\02_Practice.AssemblyInfo.cs
+d:\Data\Learn\01_Courses\09_.NET\.NETcourse\02_Practice\obj\Debug\net8.0\02_Practice.csproj.CoreCompileInputs.cache
+d:\Data\Learn\01_Courses\09_.NET\.NETcourse\02_Practice\obj\Debug\net8.0\02_Practice.sourcelink.json
+d:\Data\Learn\01_Courses\09_.NET\.NETcourse\02_Practice\obj\Debug\net8.0\02_Practice.dll
+d:\Data\Learn\01_Courses\09_.NET\.NETcourse\02_Practice\obj\Debug\net8.0\refint\02_Practice.dll
+d:\Data\Learn\01_Courses\09_.NET\.NETcourse\02_Practice\obj\Debug\net8.0\02_Practice.pdb
